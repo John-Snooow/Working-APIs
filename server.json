@@ -1,7 +1,29 @@
 {
-    "products":[
-        {"id": "1", "name": "Mouse", "price": "150.25"},
-        {"id": "2", "name": "Teclado", "price": "250"},
-        {"id": "3", "name": "Monitor", "price": "1250"}
-    ]
+  "products": [
+    {
+      "id": "1",
+      "name": "Mouse",
+      "price": "150.25"
+    },
+    {
+      "id": "2",
+      "name": "Teclado",
+      "price": "250"
+    },
+    {
+      "id": "3",
+      "name": "Monitor",
+      "price": "1250"
+    },
+    {
+      "id": "1739409484192",
+      "name": "tarol",
+      "price": "700"
+    },
+    {
+      "id": "1739409507365",
+      "name": "tarol",
+      "price": "700"
+    }
+  ]
 }
